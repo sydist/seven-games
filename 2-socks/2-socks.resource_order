@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_game","order":5,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"snd_point","order":7,"path":"sounds/snd_point/snd_point.yy",},
+    {"name":"spr_sock","order":2,"path":"sprites/spr_sock/spr_sock.yy",},
+    {"name":"snd_music","order":8,"path":"sounds/snd_music/snd_music.yy",},
+    {"name":"spr_basket","order":3,"path":"sprites/spr_basket/spr_basket.yy",},
+    {"name":"obj_basket","order":4,"path":"objects/obj_basket/obj_basket.yy",},
+    {"name":"obj_sock","order":6,"path":"objects/obj_sock/obj_sock.yy",},
+    {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
+  ],
+}

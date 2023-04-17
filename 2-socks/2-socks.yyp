@@ -1,0 +1,36 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "2-socks",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.2.1.75",
+  },
+  "resources": [
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
+    {"id":{"name":"snd_point","path":"sounds/snd_point/snd_point.yy",},},
+    {"id":{"name":"spr_sock","path":"sprites/spr_sock/spr_sock.yy",},},
+    {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
+    {"id":{"name":"spr_basket","path":"sprites/spr_basket/spr_basket.yy",},},
+    {"id":{"name":"obj_basket","path":"objects/obj_basket/obj_basket.yy",},},
+    {"id":{"name":"obj_sock","path":"objects/obj_sock/obj_sock.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
