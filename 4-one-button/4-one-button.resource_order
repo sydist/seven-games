@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"TileSet1","order":6,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"obj_enemy","order":9,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"spr_knight","order":2,"path":"sprites/spr_knight/spr_knight.yy",},
+    {"name":"spr_knight_jumping","order":4,"path":"sprites/spr_knight_jumping/spr_knight_jumping.yy",},
+    {"name":"spr_tiles","order":5,"path":"sprites/spr_tiles/spr_tiles.yy",},
+    {"name":"spr_slime","order":8,"path":"sprites/spr_slime/spr_slime.yy",},
+    {"name":"obj_knight","order":3,"path":"objects/obj_knight/obj_knight.yy",},
+    {"name":"spr_tree","order":7,"path":"sprites/spr_tree/spr_tree.yy",},
+    {"name":"spr_bat","order":11,"path":"sprites/spr_bat/spr_bat.yy",},
+    {"name":"obj_main","order":10,"path":"objects/obj_main/obj_main.yy",},
+    {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
+  ],
+}

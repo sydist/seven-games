@@ -1,0 +1,1 @@
+image_yscale = 1 + sin(current_time / 100) * 0.1;
