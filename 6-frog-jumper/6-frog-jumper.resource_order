@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objects","order":6,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":4,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_fly","order":2,"path":"objects/obj_fly/obj_fly.yy",},
+    {"name":"spr_background","order":4,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_mushroom","order":3,"path":"sprites/spr_mushroom/spr_mushroom.yy",},
+    {"name":"spr_fly","order":2,"path":"sprites/spr_fly/spr_fly.yy",},
+    {"name":"spr_target","order":1,"path":"sprites/spr_target/spr_target.yy",},
+    {"name":"fnt_main","order":7,"path":"fonts/fnt_main/fnt_main.yy",},
+    {"name":"par_edible","order":1,"path":"objects/par_edible/par_edible.yy",},
+    {"name":"obj_mushroom","order":3,"path":"objects/obj_mushroom/obj_mushroom.yy",},
+  ],
+}
